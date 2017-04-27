@@ -1,2 +1,2 @@
 # Cryptography
-Exercises from college subject Cryptography. Made using React. 
+Exercises from college subject Cryptography. Made with React. 
